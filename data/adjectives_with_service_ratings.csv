@@ -1,0 +1,13 @@
+SeatType,Recommended,cluster,TargetFeature,TopAdjectives,SeatComfort,CabinStaffService,GroundService,Food&Beverages,InflightEntertainment
+First Class,no,0,GroundService,,3.2666666666666666,4.266666666666667,1.4,2.2,2.4
+First Class,no,1,Food&Beverages,"poor(Food&Beverages), slow(Food&Beverages)",3.193548387096774,3.774193548387097,2.903225806451613,2.5806451612903225,2.967741935483871
+First Class,no,2,InflightEntertainment,poor(InflightEntertainment),2.28,1.72,2.12,1.4,1.36
+First Class,yes,0,SeatComfort,"comfortable(SeatComfort), window(SeatComfort)",4.25,3.625,2.875,3.875,3.5
+First Class,yes,1,CabinStaffService,"attentive(CabinStaffService), friendly(CabinStaffService), cabin(CabinStaffService), experienced(CabinStaffService), young(CabinStaffService), excellent(CabinStaffService), proactive(CabinStaffService), outstanding(CabinStaffService), full(CabinStaffService), efficient(CabinStaffService)",4.659574468085107,4.9361702127659575,4.51063829787234,4.638297872340425,4.127659574468085
+First Class,yes,2,CabinStaffService,"nice(CabinStaffService), cabin(CabinStaffService), helpful(CabinStaffService)",3.3333333333333335,4.333333333333333,4.166666666666667,2.5,3.0
+Premium Economy,no,0,InflightEntertainment,poor(InflightEntertainment),3.0,3.111111111111111,3.9444444444444446,1.7777777777777777,1.6111111111111112
+Premium Economy,no,1,Food&Beverages,"awful(Food&Beverages), poor(Food&Beverages)",1.7083333333333333,2.0208333333333335,1.9791666666666667,1.5208333333333333,1.5625
+Premium Economy,no,2,Food&Beverages,"poor(Food&Beverages), bad(Food&Beverages)",3.4615384615384617,2.576923076923077,2.8846153846153846,2.5,3.5384615384615383
+Premium Economy,yes,0,CabinStaffService,"friendly(CabinStaffService), good(CabinStaffService), efficient(CabinStaffService), premium(CabinStaffService), mixed(CabinStaffService), polite(CabinStaffService), excellent(CabinStaffService), new(CabinStaffService), attentive(CabinStaffService), dedicated(CabinStaffService)",4.425925925925926,4.685185185185185,4.12962962962963,4.222222222222222,4.148148148148148
+Premium Economy,yes,1,GroundService,,3.3529411764705883,3.588235294117647,4.235294117647059,2.9411764705882355,3.1176470588235294
+Premium Economy,yes,2,SeatComfort,"premium(SeatComfort), broken(SeatComfort), available(SeatComfort), due(SeatComfort), empty(SeatComfort), next(SeatComfort), roomy(SeatComfort)",3.6153846153846154,3.0,2.4615384615384617,2.6923076923076925,2.8461538461538463
